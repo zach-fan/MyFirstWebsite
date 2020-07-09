@@ -1,0 +1,27 @@
+
+        body {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnoaFZEqWPoZK5_vqtog2KU4Q1cXcOiu5LJw&usqp=CAU);
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+
+        }
+
+        h1 {
+            font-family: fantasy;
+            color: purple;
+        }
+
+        .heading span {float: right;
+            font-size: 20px;
+        
+        }
+        
+        .heading h1{ display: inline;
+        
+        
+        }
+
+        
+    

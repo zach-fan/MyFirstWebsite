@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: fantasy;
+    color: purple;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#PrimaryImage{
+border-color:#13A0F6 ;
+border-radius: 50px;
+border-width: medium;
+margin:10px 40% 10px 10px;
+border-style: solid;
+float: right;
+}
+
+ul { color:#333366;
+
+
+}
+
+.heading span {float: right;
+    font-size: 20px;
+
+}
+
+.heading h1{ display: inline;
+
+
+}
+
+p {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px;
+}
+
+footer{
+    position: sticky;
+    margin-top: 80px;
+    background-color: aqua;
+    font-family: monospace;
+}
